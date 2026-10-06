@@ -21,7 +21,7 @@ python benchmark.py
 python -m http.server 8000 --directory dist
 ```
 
-Open http://localhost:8000. Select a journey, choose a model, and move the replay slider or press Play.
+Open https://sekyiwaa.github.io/arrival-lab/. Select a journey, choose a model, and move the replay slider or press Play.
 
 ## Evaluate TabPFN-3.5
 
