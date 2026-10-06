@@ -1,0 +1,5 @@
+numpy>=1.26
+pandas>=2.2
+scikit-learn>=1.5
+tabpfn-client>=0.6.0
+httpx[socks]
